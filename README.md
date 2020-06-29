@@ -1,1 +1,1 @@
-# Coronavirus-Tweetter-Sentiment-Analysis
+# Coronavirus-Twitter-Sentiment-Analysis
