@@ -4,7 +4,7 @@ import re
 from datetime import datetime
 
 # ----- PARAMETRI DI CONFIGURAZIONE -----
-table="monitoring" #tabella contenente il training set
+table="monitoring" 
 since="2020-06-08"
 until="2020-06-09" 
 # ---------------------------------------
